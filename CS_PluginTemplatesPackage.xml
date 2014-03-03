@@ -1,3 +1,5 @@
 <root>
-  <resource language="CSharp" url="https://raw2.github.com/RoryBecker/CodeRushPluginTemplates/master/CS_NewAction.xml" />
+  <templates>
+    <template language="CSharp" url="https://raw2.github.com/RoryBecker/CodeRushPluginTemplates/master/CS_NewAction.xml" />
+  </templates>
 </root>
