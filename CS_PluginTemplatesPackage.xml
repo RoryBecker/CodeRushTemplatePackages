@@ -1,5 +1,7 @@
 <root>
   <templates>
     <template language="CSharp" url="https://raw2.github.com/RoryBecker/CodeRushPluginTemplates/master/CS_NewAction.xml" />
+    <template language="CSharp" url="https://raw2.github.com/RoryBecker/CodeRushPluginTemplates/master/CS_NewRefactoring.xml" />
+    <template language="CSharp" url="https://raw2.github.com/RoryBecker/CodeRushPluginTemplates/master/CS_NewCodeProvider.xml" />
   </templates>
 </root>
